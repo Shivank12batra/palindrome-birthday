@@ -58,6 +58,11 @@ input {
     color: var(--background-color);
 }
 
+#output {
+    align-self: center;
+    font-weight: bold;
+}
+
 .media-links {
     text-align: center;
     margin-top: 12rem;
